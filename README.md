@@ -1,5 +1,5 @@
 # NetworkTech_homework_2022
-南开大学 网络技术及应用 课程设计
+南开大学 2022《网络技术及应用》课程设计
 
 lab1:简单的类似于wireshark的包捕获器
 
